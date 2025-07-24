@@ -83,6 +83,4 @@ http://localhost:3001/index.html#example-doc
 
 Each unique ID creates a new document or joins the existing one.
 
- <!-- Author -->
  
- himani kotnala — @himanikotnala
